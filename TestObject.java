@@ -29,6 +29,11 @@ public class TestObject{
     }
   }
   
+  //provide toString method for use in printing
+  public String toString(){
+    return this.data;
+  }
+  
 }
 
 
