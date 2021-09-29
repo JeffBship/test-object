@@ -10,7 +10,7 @@ public class TestObject{
   
   //constructor
   public TestObject(){
-    this.data = new String("SomeDataGoesHere");
+    this.data = new String("ThisIsTheDefaultData");
   }
   
   //provide access to outside classes
